@@ -1,0 +1,30 @@
+/* .header {
+    font-family:'GFS Didot', serif;
+    background-color: rgb(62, 145, 170);
+    text-align: center;
+    padding: 20px;
+}
+
+div {
+    display: flex;
+}
+
+body {
+    font-family:'Lato', sans-serif;
+    background-color: rgb(62, 145, 170);
+}
+
+.column {
+    float: left;
+    width: 33%;
+    margin: 25px;
+    padding: 10px;
+}
+
+.footer {
+    position: fixed;
+    display: inline-block;
+    text-align: center;
+    display: table;
+    clear: both;
+} */
